@@ -60,7 +60,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _BlendActive: 1
-    - _BlendFactor: 0.34
+    - _BlendFactor: 0.98
     - _BlendInvert: 1
     - _BumpScale: 1
     - _Cutoff: 0.5
